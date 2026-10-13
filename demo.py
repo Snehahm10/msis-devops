@@ -3,7 +3,7 @@ def add(a,b):
  return a+b
 
 def sub(a,b):
- return a-b
+ return a-b+1
 
 def main():
  print("Addition:",add(10,5))
